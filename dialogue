@@ -1,0 +1,67 @@
+
+slide 0, 
+Haitao is a customer who needs a air conditioner.
+Yuchen is a technical consultant to support the air conditioner, called BestMachine.
+
+slide 1.
+problem senario
+
+Haitao: What a hot day! I need an air conditioner to make me cool.
+	Hi, Yuchen. Is there any air conditioner you can recommend?
+Yuchen: Sure, try our latest product. It is efficient in power saving.  
+Haitao: Sound good. But how can I use this machine. It seems quite sophisticated. 
+Yuchen: It is easy, and u can check the manual book. (show slide)
+Haitao:	Let me try. The air conditioner consists of three major subsystems:
+	1) a Power module to enable/disable power, 
+	2) a compressor system to …
+	3) a temperature control system to …
+ 
+	To start the air conditioner, first…, second…
+Haitao: Oh my. What the hell is this. I can not remember these stuffs, Can u give me an integrated interface?
+	so that i can use the air conditioner more easily.
+Yuchen: en, interesting idea. Let me check the design pattern book. En, I think the Facade design pattern can help. 
+Haitao: Facade? What do u mean by Facade pattern? 
+
+Yuchen: OK, I’ll show you. 
+
+
+slide2:
+definition of Facade pattern. and How it help solve the above problem.
+
+Yuchen： … give the definition of Facade pattern. 
+	In this air-condition example, I can offer u a remote-controller as the facade of the complex air conditioner system.
+
+Haitao: Remote-controller, en, I like it. With the Remote-controller, I can manipulate the air conditioner just through the facade.
+	That really save my much efforts. By simply click the makeCool button on the remote-controller, cool air comes. Fantastic!
+	But how facade works? Can you give a detailed explanation of the underlying mechanism.
+
+
+
+slide3,4:
+3.UML 4.sequence diagram
+Yuchen: Why not! balabla(explain the UML)
+Haitao: En, quite easy to understand. What about the sequence diagram?
+Yuchen: xxx
+
+slide5
+benefits and application senario , limitation
+Haitao: I see the point. So I think the benefit of Facade pattern include…
+	It apply to the situation where blabla…
+Yuchen: Exactly. Facade pattern is widely used… For example, xxxxx
+Haitao: Such a useful pattern. However, everything comes with a cost. Is there any limitation of this pattern?
+Yuchen: xxxx
+
+slide 6
+Q&A
+
+
+	 
+
+
+
+
+
+
+
+
+
